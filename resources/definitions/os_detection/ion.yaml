@@ -1,0 +1,9 @@
+os: ion
+text: 'ION System'
+type: network
+icon: andrew
+mib_dir: andrew
+discovery:
+    -
+        sysObjectID:
+            - '.1.3.6.1.4.1.331.1.2.1.6.1'
